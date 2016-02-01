@@ -1,0 +1,561 @@
+2016/01/26 16:24:00 [notice] 552#452: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/26 16:24:00 [emerg] 552#452: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/26 16:24:01 [notice] 5840#2904: using inherited sockets from "372;"
+2016/01/26 17:02:48 [notice] 5556#5728: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/26 17:02:48 [emerg] 5556#5728: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/26 17:02:48 [notice] 4840#5852: using inherited sockets from "372;"
+2016/01/27 16:43:22 [notice] 5832#4380: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 16:43:22 [emerg] 5832#4380: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 16:43:23 [notice] 376#5284: using inherited sockets from "372;"
+2016/01/27 17:03:17 [notice] 1348#6844: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:03:17 [emerg] 1348#6844: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:03:17 [notice] 1348#6844: signal process started
+2016/01/27 17:03:19 [notice] 7660#7368: using inherited sockets from "428;"
+2016/01/27 17:04:54 [notice] 7448#8112: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:04:54 [emerg] 7448#8112: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:04:54 [notice] 7448#8112: signal process started
+2016/01/27 17:04:55 [notice] 7580#5376: using inherited sockets from "380;"
+2016/01/27 17:08:31 [notice] 7348#7616: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:08:31 [emerg] 7348#7616: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:08:31 [notice] 7348#7616: signal process started
+2016/01/27 17:08:32 [notice] 8000#7428: using inherited sockets from "372;"
+2016/01/27 17:12:42 [notice] 8128#8136: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:12:42 [emerg] 8128#8136: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:12:42 [emerg] 8128#8136: unexpected "}" in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:17
+2016/01/27 17:13:09 [notice] 2120#8132: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:13:09 [emerg] 2120#8132: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:13:09 [notice] 2120#8132: signal process started
+2016/01/27 17:13:10 [notice] 6508#2200: using inherited sockets from "428;"
+2016/01/27 17:13:17 [error] 6508#6372: *19 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:13:43 [error] 6508#6372: *19 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:14:06 [notice] 4316#8148: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:14:06 [emerg] 4316#8148: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:14:06 [notice] 4316#8148: signal process started
+2016/01/27 17:14:07 [notice] 7524#8180: using inherited sockets from "380;"
+2016/01/27 17:14:10 [error] 7524#7644: *23 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:14:12 [error] 7524#7644: *23 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:14:13 [error] 7524#7644: *23 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:14:13 [error] 7524#7644: *23 CreateFile() "D:/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:14:53 [notice] 5916#7752: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:14:53 [emerg] 5916#7752: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:14:53 [notice] 5916#7752: signal process started
+2016/01/27 17:14:54 [notice] 8040#8048: using inherited sockets from "372;"
+2016/01/27 17:15:51 [notice] 7816#6664: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:15:51 [emerg] 7816#6664: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:15:51 [notice] 7816#6664: signal process started
+2016/01/27 17:15:52 [notice] 7708#7440: using inherited sockets from "428;"
+2016/01/27 17:16:07 [notice] 1048#6848: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:16:07 [emerg] 1048#6848: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:16:07 [emerg] 1048#6848: unexpected "}" in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:18
+2016/01/27 17:16:16 [notice] 7200#8032: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:16:16 [emerg] 7200#8032: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:16:16 [notice] 7200#8032: signal process started
+2016/01/27 17:16:17 [notice] 8092#5412: using inherited sockets from "380;"
+2016/01/27 17:16:19 [error] 8092#7280: *27 CreateFile() "D:/test/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:17:43 [notice] 7348#7872: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:17:43 [emerg] 7348#7872: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:17:43 [notice] 7348#7872: signal process started
+2016/01/27 17:17:44 [notice] 5172#7712: using inherited sockets from "372;"
+2016/01/27 17:18:14 [notice] 8168#3952: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:18:14 [emerg] 8168#3952: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:18:14 [notice] 8168#3952: signal process started
+2016/01/27 17:18:14 [notice] 7240#8148: using inherited sockets from "428;"
+2016/01/27 17:18:33 [error] 7240#2108: *33 CreateFile() "D:/OpenResty_x64_1.9.9/test/res/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /block.png HTTP/1.1", host: "localhost:6699"
+2016/01/27 17:18:50 [notice] 7464#5344: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:18:50 [emerg] 7464#5344: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:18:50 [notice] 7464#5344: signal process started
+2016/01/27 17:18:51 [notice] 7472#5856: using inherited sockets from "380;"
+2016/01/27 17:23:42 [notice] 7192#772: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:23:42 [emerg] 7192#772: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:23:42 [notice] 7192#772: signal process started
+2016/01/27 17:23:43 [notice] 7880#7364: using inherited sockets from "396;"
+2016/01/27 17:25:46 [notice] 7500#7456: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:25:46 [emerg] 7500#7456: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:25:46 [notice] 7500#7456: signal process started
+2016/01/27 17:25:47 [notice] 7712#7412: using inherited sockets from "400;"
+2016/01/27 17:26:26 [notice] 5856#7472: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:26:26 [emerg] 5856#7472: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:26:26 [notice] 5856#7472: signal process started
+2016/01/27 17:26:27 [notice] 1168#8020: using inherited sockets from "208;"
+2016/01/27 17:27:02 [notice] 7188#2108: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:27:02 [emerg] 7188#2108: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:27:02 [notice] 7188#2108: signal process started
+2016/01/27 17:27:03 [notice] 4036#7800: using inherited sockets from "428;"
+2016/01/27 17:27:09 [notice] 8060#8088: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:27:09 [emerg] 8060#8088: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:27:09 [notice] 8060#8088: signal process started
+2016/01/27 17:27:11 [notice] 7340#4872: using inherited sockets from "400;"
+2016/01/27 17:27:32 [notice] 7832#7352: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/27 17:27:32 [emerg] 7832#7352: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/27 17:27:32 [notice] 7832#7352: signal process started
+2016/01/27 17:27:35 [notice] 7376#7496: using inherited sockets from "208;"
+2016/01/29 15:41:10 [notice] 5300#5980: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/29 15:41:10 [emerg] 5300#5980: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/29 15:41:11 [notice] 5872#8068: using inherited sockets from "400;"
+2016/01/29 15:42:56 [notice] 6956#6804: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/29 15:42:56 [emerg] 6956#6804: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/29 15:42:56 [notice] 6956#6804: signal process started
+2016/01/29 15:42:57 [notice] 6924#7332: using inherited sockets from "468;"
+2016/01/29 15:43:07 [error] 6924#8136: *3 WSARecv() failed (10053: An established connection was aborted by the software in your host machine) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", upstream: "http://106.185.29.251:80/", host: "localhost:6699"
+2016/01/29 15:43:42 [notice] 7804#1160: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/29 15:43:42 [emerg] 7804#1160: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/29 15:43:42 [notice] 7804#1160: signal process started
+2016/01/29 15:43:43 [notice] 5664#7480: using inherited sockets from "480;"
+2016/01/29 15:44:10 [notice] 7384#7724: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/29 15:44:10 [emerg] 7384#7724: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/29 15:44:10 [notice] 7384#7724: signal process started
+2016/01/29 15:44:11 [notice] 1028#6248: using inherited sockets from "456;"
+2016/01/29 15:44:18 [error] 1028#5396: *8 WSASend() failed (10054: An existing connection was forcibly closed by the remote host) while sending request to upstream, client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", upstream: "http://106.185.29.251:80/", host: "localhost:6699"
+2016/01/29 15:44:28 [notice] 6312#7544: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/01/29 15:44:28 [emerg] 6312#7544: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/01/29 15:44:28 [notice] 6312#7544: signal process started
+2016/01/29 15:44:31 [notice] 5836#7364: using inherited sockets from "408;"
+2016/01/29 15:45:32 [error] 5836#7144: *13 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", upstream: "https://106.185.29.251:443/", host: "localhost:6699"
+2016/01/29 15:46:45 [error] 5836#7144: *13 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", upstream: "https://106.185.29.251:443/", host: "localhost:6699"
+2016/01/29 15:50:31 [error] 5836#7144: *19 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", upstream: "https://106.185.29.251:443/", host: "localhost:6699"
+2016/02/01 10:59:56 [notice] 3408#1184: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 10:59:56 [emerg] 3408#1184: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 10:59:56 [notice] 5336#6320: using inherited sockets from "400;"
+2016/02/01 11:02:43 [notice] 5968#5772: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:02:43 [emerg] 5968#5772: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:02:43 [notice] 5968#5772: signal process started
+2016/02/01 11:02:44 [notice] 2036#3652: using inherited sockets from "464;"
+2016/02/01 11:04:38 [notice] 4504#6488: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:04:38 [emerg] 4504#6488: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:04:38 [notice] 4504#6488: signal process started
+2016/02/01 11:04:39 [notice] 6548#2812: using inherited sockets from "376;"
+2016/02/01 11:08:16 [notice] 6776#5088: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:08:16 [emerg] 6776#5088: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:08:16 [notice] 6776#5088: signal process started
+2016/02/01 11:08:17 [notice] 4612#4748: using inherited sockets from "476;"
+2016/02/01 11:08:51 [notice] 3592#3496: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:08:51 [emerg] 3592#3496: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:08:51 [notice] 3592#3496: signal process started
+2016/02/01 11:08:52 [notice] 5396#5816: using inherited sockets from "408;"
+2016/02/01 11:27:24 [notice] 5236#1916: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:27:24 [emerg] 5236#1916: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:27:24 [notice] 5236#1916: signal process started
+2016/02/01 11:27:25 [notice] 7136#6320: using inherited sockets from "460;"
+2016/02/01 11:31:46 [notice] 6684#3716: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:31:46 [emerg] 6684#3716: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:31:46 [notice] 6684#3716: signal process started
+2016/02/01 11:31:47 [notice] 2416#2988: using inherited sockets from "480;"
+2016/02/01 11:41:00 [notice] 664#6380: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:41:00 [emerg] 664#6380: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:41:00 [emerg] 664#6380: invalid parameter "on" in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:22
+2016/02/01 11:43:16 [notice] 4576#964: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:43:16 [emerg] 4576#964: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:43:16 [emerg] 4576#964: invalid parameter "on" in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:22
+2016/02/01 11:43:33 [notice] 4532#6280: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:43:33 [emerg] 4532#6280: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:43:33 [emerg] 4532#6280: invalid parameter "on" in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:22
+2016/02/01 11:43:50 [notice] 2704#4456: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:43:50 [emerg] 2704#4456: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:43:50 [notice] 2704#4456: signal process started
+2016/02/01 11:43:52 [notice] 6436#3020: using inherited sockets from "392;"
+2016/02/01 11:44:01 [notice] 2752#6020: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:44:01 [emerg] 2752#6020: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:44:01 [notice] 2752#6020: signal process started
+2016/02/01 11:44:03 [notice] 128#4328: using inherited sockets from "476;"
+2016/02/01 11:44:34 [notice] 3752#6168: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:44:34 [emerg] 3752#6168: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:44:34 [notice] 3752#6168: signal process started
+2016/02/01 11:44:36 [notice] 5180#6764: using inherited sockets from "452;"
+2016/02/01 11:47:49 [notice] 128#5520: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 11:47:49 [emerg] 128#5520: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 11:47:49 [notice] 128#5520: signal process started
+2016/02/01 11:47:52 [notice] 1088#5056: using inherited sockets from "400;"
+2016/02/01 11:47:53 [error] 1088#4172: *47 CreateFile() "D:/OpenResty_x64_1.9.9/test/webroot/res/moonbingbing/openresty-best-practices/raw/master/images/qq_group.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: www.rsma.com, request: "GET /moonbingbing/openresty-best-practices/raw/master/images/qq_group.jpg HTTP/1.1", host: "localhost:6699", referrer: "http://localhost:6699/readme"
+2016/02/01 13:44:57 [notice] 5392#6592: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 13:44:57 [emerg] 5392#6592: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 13:44:57 [notice] 5392#6592: signal process started
+2016/02/01 13:44:58 [notice] 7108#3488: using inherited sockets from "464;"
+2016/02/01 14:03:57 [notice] 5444#7084: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 14:03:57 [emerg] 5444#7084: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 14:03:57 [notice] 5444#7084: signal process started
+2016/02/01 14:03:59 [notice] 1280#1828: using inherited sockets from "376;"
+2016/02/01 15:13:15 [notice] 4844#4840: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:13:15 [emerg] 4844#4840: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:13:15 [notice] 4844#4840: signal process started
+2016/02/01 15:13:17 [notice] 4624#5628: using inherited sockets from "400;"
+2016/02/01 15:15:13 [notice] 6436#3608: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:15:13 [emerg] 6436#3608: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:15:13 [notice] 6436#3608: signal process started
+2016/02/01 15:15:14 [notice] 5716#6960: using inherited sockets from "408;"
+2016/02/01 15:25:28 [notice] 884#4516: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:25:28 [emerg] 884#4516: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:25:28 [notice] 884#4516: signal process started
+2016/02/01 15:25:29 [notice] 2848#4712: using inherited sockets from "480;"
+2016/02/01 15:25:42 [error] 2848#2096: *65 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:26:03 [notice] 5932#5792: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:26:03 [emerg] 5932#5792: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:26:03 [notice] 5932#5792: signal process started
+2016/02/01 15:26:04 [notice] 1512#1800: using inherited sockets from "392;"
+2016/02/01 15:33:35 [notice] 1396#6692: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:33:35 [emerg] 1396#6692: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:33:35 [emerg] 1396#6692: "lua_package_path" directive is not allowed here in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:9
+2016/02/01 15:33:52 [notice] 2592#6136: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:33:52 [emerg] 2592#6136: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:33:52 [emerg] 2592#6136: "lua_package_path" directive is not allowed here in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:9
+2016/02/01 15:34:20 [notice] 5724#6568: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:34:20 [emerg] 5724#6568: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:34:20 [alert] 5724#6568: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:34:20 [notice] 5724#6568: signal process started
+2016/02/01 15:34:21 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:34:21 [notice] 4164#3800: using inherited sockets from "388;"
+2016/02/01 15:34:21 [alert] 4164#3800: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:34:30 [error] 4164#5564: *71 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:35:25 [notice] 3688#664: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:35:25 [emerg] 3688#664: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:35:25 [alert] 3688#664: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:35:25 [notice] 3688#664: signal process started
+2016/02/01 15:35:26 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:35:26 [notice] 3892#6756: using inherited sockets from "464;"
+2016/02/01 15:35:26 [alert] 3892#6756: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:35:30 [error] 3892#6504: *75 failed to load external Lua file "/lua/.lua": cannot open /lua/.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:36:08 [notice] 5212#2428: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:36:08 [emerg] 5212#2428: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:36:08 [alert] 5212#2428: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:08 [notice] 5212#2428: signal process started
+2016/02/01 15:36:09 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:09 [notice] 4936#6880: using inherited sockets from "476;"
+2016/02/01 15:36:09 [alert] 4936#6880: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:50 [notice] 4764#2264: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:36:50 [emerg] 4764#2264: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:36:50 [alert] 4764#2264: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:50 [notice] 4764#2264: signal process started
+2016/02/01 15:36:50 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:51 [notice] 5968#5336: using inherited sockets from "480;"
+2016/02/01 15:36:51 [alert] 5968#5336: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:36:56 [error] 5968#4924: *79 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/lua/login.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/lua/login.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /lua/login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:36:56 [error] 5968#4924: *79 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/favicon.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/favicon.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8801", referrer: "http://localhost:8801/lua/login?name=11&pwd=22"
+2016/02/01 15:37:00 [error] 5968#4924: *79 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/lua/login.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/lua/login.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /lua/login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:37:32 [notice] 4048#1564: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:37:32 [emerg] 4048#1564: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:37:32 [alert] 4048#1564: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:37:32 [notice] 4048#1564: signal process started
+2016/02/01 15:37:33 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:37:33 [notice] 2812#5820: using inherited sockets from "392;"
+2016/02/01 15:37:33 [alert] 2812#5820: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:37:36 [error] 2812#6832: *83 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/login.lua": cannot open D:/OpenResty_x64_1.9.9/test/login.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:37:44 [notice] 4532#1012: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:37:44 [emerg] 4532#1012: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:37:44 [alert] 4532#1012: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:37:44 [notice] 4532#1012: signal process started
+2016/02/01 15:37:46 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:37:46 [notice] 2112#2736: using inherited sockets from "476;"
+2016/02/01 15:37:46 [alert] 2112#2736: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:23 [notice] 5040#6168: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:42:23 [emerg] 5040#6168: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:42:23 [alert] 5040#6168: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:23 [notice] 5040#6168: signal process started
+2016/02/01 15:42:25 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:25 [notice] 1896#7160: using inherited sockets from "460;"
+2016/02/01 15:42:25 [alert] 1896#7160: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:48 [notice] 1076#5792: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:42:48 [emerg] 1076#5792: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:42:48 [alert] 1076#5792: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:48 [notice] 1076#5792: signal process started
+2016/02/01 15:42:48 [alert] 3408#1184: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:48 [notice] 5660#4332: using inherited sockets from "392;"
+2016/02/01 15:42:48 [alert] 5660#4332: lua_code_cache is off; this will hurt performance in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:11
+2016/02/01 15:42:53 [error] 5660#6096: *91 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/login1.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/login1.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login1?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:43:08 [notice] 792#4764: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:43:08 [emerg] 792#4764: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:43:08 [notice] 792#4764: signal process started
+2016/02/01 15:43:11 [notice] 2392#4808: using inherited sockets from "464;"
+2016/02/01 15:43:24 [error] 2392#6556: *93 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua/login1.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua/login1.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /login1?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:43:40 [notice] 6684#1512: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:43:40 [emerg] 6684#1512: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:43:40 [notice] 6684#1512: signal process started
+2016/02/01 15:43:41 [notice] 6520#4768: using inherited sockets from "460;"
+2016/02/01 15:43:43 [error] 6520#368: *95 failed to load inlined Lua code: content_by_lua(nginx.conf:21):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:44:11 [notice] 2036#6088: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:44:11 [emerg] 2036#6088: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:44:11 [notice] 2036#6088: signal process started
+2016/02/01 15:44:11 [notice] 2736#5240: using inherited sockets from "392;"
+2016/02/01 15:44:15 [error] 2736#852: *97 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:44:18 [error] 2736#852: *98 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:44:21 [error] 2736#852: *99 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:44:38 [notice] 6924#1896: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:44:38 [emerg] 6924#1896: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:44:38 [notice] 6924#1896: signal process started
+2016/02/01 15:44:39 [notice] 5416#7100: using inherited sockets from "464;"
+2016/02/01 15:44:52 [notice] 4332#5660: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:44:52 [emerg] 4332#5660: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:44:52 [notice] 4332#5660: signal process started
+2016/02/01 15:44:53 [notice] 964#1124: using inherited sockets from "460;"
+2016/02/01 15:45:21 [notice] 6384#4516: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:45:21 [emerg] 6384#4516: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:45:21 [notice] 6384#4516: signal process started
+2016/02/01 15:45:22 [notice] 5568#3600: using inherited sockets from "392;"
+2016/02/01 15:45:25 [error] 5568#2880: *105 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:45:35 [notice] 6520#6940: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:45:35 [emerg] 6520#6940: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:45:35 [notice] 6520#6940: signal process started
+2016/02/01 15:45:38 [notice] 6504#4400: using inherited sockets from "464;"
+2016/02/01 15:45:38 [error] 6504#5212: *107 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:45:40 [error] 6504#5212: *108 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:45:51 [notice] 852#1800: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:45:51 [emerg] 852#1800: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:45:51 [notice] 852#1800: signal process started
+2016/02/01 15:45:52 [notice] 6036#5692: using inherited sockets from "460;"
+2016/02/01 15:45:54 [error] 6036#2448: *109 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:45:56 [error] 6036#2448: *110 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:46:16 [notice] 5420#6280: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:46:16 [emerg] 5420#6280: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:46:16 [notice] 5420#6280: signal process started
+2016/02/01 15:46:17 [notice] 6432#4808: using inherited sockets from "392;"
+2016/02/01 15:46:20 [error] 6432#6892: *111 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:46:22 [error] 6432#6892: *112 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:46:23 [error] 6432#6892: *113 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:47:54 [error] 6432#6892: *115 failed to load inlined Lua code: content_by_lua(nginx.conf:22):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET /login1 HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:51:43 [notice] 1280#6832: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 15:51:43 [emerg] 1280#6832: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 15:51:43 [notice] 1280#6832: signal process started
+2016/02/01 15:51:44 [notice] 3244#5500: using inherited sockets from "452;"
+2016/02/01 15:51:51 [error] 3244#1344: *117 CreateFile() "D:/OpenResty_x64_1.9.9/test/html/download" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:51:53 [error] 3244#1344: *117 CreateFile() "D:/OpenResty_x64_1.9.9/test/html/download" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:52:24 [error] 3244#1344: *117 CreateFile() "D:/OpenResty_x64_1.9.9/test/html/download/1.cab" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/1.cab HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:52:26 [error] 3244#1344: *117 CreateFile() "D:/OpenResty_x64_1.9.9/test/html/download/1.cab" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/1.cab HTTP/1.1", host: "localhost:8801"
+2016/02/01 15:52:41 [error] 3244#1344: *117 "D:/OpenResty_x64_1.9.9/test/html/download/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/ HTTP/1.1", host: "localhost:8801"
+2016/02/01 16:02:03 [notice] 4932#5724: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:02:03 [emerg] 4932#5724: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:02:03 [notice] 4932#5724: signal process started
+2016/02/01 16:02:04 [notice] 3628#2976: using inherited sockets from "408;"
+2016/02/01 16:02:26 [notice] 5220#688: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:02:26 [emerg] 5220#688: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:02:26 [notice] 5220#688: signal process started
+2016/02/01 16:02:28 [notice] 3248#2848: using inherited sockets from "464;"
+2016/02/01 16:02:30 [error] 3248#5564: *121 failed to load inlined Lua code: content_by_lua(nginx.conf:53):2: unexpected symbol near '$', client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8801"
+2016/02/01 16:02:52 [notice] 4428#2892: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:02:52 [emerg] 4428#2892: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:02:52 [notice] 4428#2892: signal process started
+2016/02/01 16:02:54 [notice] 6392#6384: using inherited sockets from "460;"
+2016/02/01 16:04:18 [notice] 6388#3264: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:04:18 [emerg] 6388#3264: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:04:18 [notice] 6388#3264: signal process started
+2016/02/01 16:04:20 [notice] 2632#4188: using inherited sockets from "400;"
+2016/02/01 16:04:48 [notice] 6060#4504: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:04:48 [emerg] 6060#4504: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:04:48 [notice] 6060#4504: signal process started
+2016/02/01 16:04:49 [notice] 5520#6328: using inherited sockets from "464;"
+2016/02/01 16:05:09 [notice] 2076#5460: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:05:09 [emerg] 2076#5460: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:05:09 [notice] 2076#5460: signal process started
+2016/02/01 16:05:10 [notice] 3128#400: using inherited sockets from "408;"
+2016/02/01 16:05:28 [notice] 6088#4748: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:05:28 [emerg] 6088#4748: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:05:28 [notice] 6088#4748: signal process started
+2016/02/01 16:05:29 [notice] 1856#4164: using inherited sockets from "400;"
+2016/02/01 16:09:26 [error] 1856#2664: *133 CreateFile() "D:/OpenResty_x64_1.9.9/test/webroot/res/download/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/block.png HTTP/1.1", host: "localhost:8801"
+2016/02/01 16:09:45 [notice] 5436#5696: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:09:45 [emerg] 5436#5696: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:09:45 [notice] 5436#5696: signal process started
+2016/02/01 16:09:46 [notice] 4456#2028: using inherited sockets from "424;"
+2016/02/01 16:09:50 [error] 4456#1396: *135 CreateFile() "D:/OpenResty_x64_1.9.9/test/webroot/res/download/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/block.png HTTP/1.1", host: "localhost:8801"
+2016/02/01 16:09:52 [error] 4456#1396: *135 CreateFile() "D:/OpenResty_x64_1.9.9/test/webroot/res/download/block.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /download/block.png HTTP/1.1", host: "localhost:8801"
+2016/02/01 16:24:53 [notice] 1100#6956: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:24:53 [emerg] 1100#6956: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:24:53 [notice] 1100#6956: signal process started
+2016/02/01 16:24:55 [notice] 2628#5472: using inherited sockets from "476;"
+2016/02/01 16:26:15 [notice] 1048#4892: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:26:15 [emerg] 1048#4892: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:26:15 [notice] 1048#4892: signal process started
+2016/02/01 16:26:17 [notice] 5808#1340: using inherited sockets from "452;"
+2016/02/01 16:40:47 [notice] 4412#4504: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:40:47 [emerg] 4412#4504: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:40:47 [notice] 4412#4504: signal process started
+2016/02/01 16:40:49 [notice] 4164#5544: using inherited sockets from "424;"
+2016/02/01 16:41:12 [notice] 7152#1780: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:41:12 [emerg] 7152#1780: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:41:12 [emerg] 7152#1780: invalid number of arguments in "location" directive in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:19
+2016/02/01 16:41:39 [notice] 5216#5568: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:41:39 [emerg] 5216#5568: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:41:39 [notice] 5216#5568: signal process started
+2016/02/01 16:41:41 [notice] 1776#4332: using inherited sockets from "460;"
+2016/02/01 16:41:56 [notice] 1136#6084: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:41:56 [emerg] 1136#6084: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:41:56 [notice] 1136#6084: signal process started
+2016/02/01 16:41:57 [notice] 7100#5716: using inherited sockets from "408;"
+2016/02/01 16:42:32 [notice] 5220#2976: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:42:32 [emerg] 5220#2976: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:42:32 [notice] 5220#2976: signal process started
+2016/02/01 16:42:34 [notice] 640#4336: using inherited sockets from "464;"
+2016/02/01 16:43:08 [notice] 1012#6504: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:43:08 [emerg] 1012#6504: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:43:08 [emerg] 1012#6504: invalid number of arguments in "location" directive in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:19
+2016/02/01 16:43:18 [notice] 4332#1776: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:43:18 [emerg] 4332#1776: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:43:18 [notice] 4332#1776: signal process started
+2016/02/01 16:43:19 [notice] 6804#1136: using inherited sockets from "452;"
+2016/02/01 16:44:37 [notice] 5092#5024: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:44:37 [emerg] 5092#5024: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:44:37 [notice] 5092#5024: signal process started
+2016/02/01 16:44:39 [notice] 3472#648: using inherited sockets from "424;"
+2016/02/01 16:45:04 [notice] 2112#6588: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:45:04 [emerg] 2112#6588: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:45:04 [notice] 2112#6588: signal process started
+2016/02/01 16:45:06 [notice] 7068#5464: using inherited sockets from "460;"
+2016/02/01 16:45:18 [notice] 1800#5416: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:45:18 [emerg] 1800#5416: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:45:18 [notice] 1800#5416: signal process started
+2016/02/01 16:45:21 [notice] 5316#5808: using inherited sockets from "408;"
+2016/02/01 16:45:32 [notice] 4488#4204: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:45:32 [emerg] 4488#4204: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:45:32 [notice] 4488#4204: signal process started
+2016/02/01 16:45:35 [notice] 6652#3292: using inherited sockets from "424;"
+2016/02/01 16:46:29 [notice] 4556#2676: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:46:29 [emerg] 4556#2676: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:46:29 [notice] 4556#2676: signal process started
+2016/02/01 16:46:30 [notice] 5220#4612: using inherited sockets from "388;"
+2016/02/01 16:47:17 [notice] 2120#4760: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:47:17 [emerg] 2120#4760: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:47:17 [notice] 2120#4760: signal process started
+2016/02/01 16:47:18 [notice] 992#1804: using inherited sockets from "408;"
+2016/02/01 16:49:23 [notice] 5520#4188: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:49:23 [emerg] 5520#4188: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:49:23 [notice] 5520#4188: signal process started
+2016/02/01 16:49:24 [notice] 6968#4400: using inherited sockets from "464;"
+2016/02/01 16:55:47 [notice] 4224#7016: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:55:47 [emerg] 4224#7016: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:55:47 [notice] 4224#7016: signal process started
+2016/02/01 16:55:48 [notice] 5740#3272: using inherited sockets from "480;"
+2016/02/01 16:56:02 [notice] 5660#7068: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:56:02 [emerg] 5660#7068: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:56:02 [notice] 5660#7068: signal process started
+2016/02/01 16:56:04 [notice] 4268#380: using inherited sockets from "460;"
+2016/02/01 16:57:28 [notice] 5316#4412: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:57:28 [emerg] 5316#4412: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:57:28 [notice] 5316#4412: signal process started
+2016/02/01 16:57:29 [notice] 5164#6948: using inherited sockets from "400;"
+2016/02/01 16:57:42 [notice] 2092#3652: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:57:42 [emerg] 2092#3652: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:57:42 [notice] 2092#3652: signal process started
+2016/02/01 16:57:45 [notice] 4276#6132: using inherited sockets from "480;"
+2016/02/01 16:57:57 [notice] 4204#6432: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:57:57 [emerg] 4204#6432: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:57:57 [notice] 4204#6432: signal process started
+2016/02/01 16:58:00 [notice] 5524#6588: using inherited sockets from "388;"
+2016/02/01 16:58:12 [notice] 5444#5020: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:58:12 [emerg] 5444#5020: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:58:12 [notice] 5444#5020: signal process started
+2016/02/01 16:58:13 [notice] 1420#6420: using inherited sockets from "400;"
+2016/02/01 16:58:55 [notice] 3932#2632: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:58:55 [emerg] 3932#2632: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:58:55 [notice] 3932#2632: signal process started
+2016/02/01 16:58:56 [notice] 4852#824: using inherited sockets from "480;"
+2016/02/01 16:59:20 [notice] 4556#6020: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 16:59:20 [emerg] 4556#6020: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 16:59:20 [notice] 4556#6020: signal process started
+2016/02/01 16:59:22 [notice] 6636#908: using inherited sockets from "388;"
+2016/02/01 17:02:58 [notice] 852#1136: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:02:58 [emerg] 852#1136: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:02:58 [notice] 852#1136: signal process started
+2016/02/01 17:03:00 [notice] 2428#5316: using inherited sockets from "476;"
+2016/02/01 17:03:40 [notice] 6420#380: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:03:40 [emerg] 6420#380: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:03:40 [notice] 6420#380: signal process started
+2016/02/01 17:03:41 [notice] 3652#4928: using inherited sockets from "480;"
+2016/02/01 17:04:00 [notice] 4488#6020: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:04:00 [emerg] 4488#6020: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:04:00 [notice] 4488#6020: signal process started
+2016/02/01 17:04:03 [notice] 4932#5628: using inherited sockets from "400;"
+2016/02/01 17:04:33 [notice] 6556#6968: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:04:33 [emerg] 6556#6968: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:04:33 [emerg] 6556#6968: invalid number of arguments in "location" directive in D:/OpenResty_x64_1.9.9/test/conf/nginx.conf:19
+2016/02/01 17:04:46 [notice] 616#4916: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:04:46 [emerg] 616#4916: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:04:46 [notice] 616#4916: signal process started
+2016/02/01 17:04:47 [notice] 5048#5164: using inherited sockets from "476;"
+2016/02/01 17:04:59 [notice] 5420#6388: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:04:59 [emerg] 5420#6388: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:04:59 [notice] 5420#6388: signal process started
+2016/02/01 17:05:02 [notice] 1436#6584: using inherited sockets from "480;"
+2016/02/01 17:05:02 [error] 1436#3692: *198 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:03 [error] 1436#3692: *199 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:03 [error] 1436#3692: *200 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:05 [error] 1436#3692: *201 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:06 [error] 1436#3692: *202 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:11 [error] 1436#3692: *203 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:11 [error] 1436#3692: *204 lua entry thread aborted: runtime error: D:/OpenResty_x64_1.9.9/test/lua/login.lua:7: attempt to concatenate field 'name' (a nil value)
+stack traceback:
+coroutine 0:
+	D:/OpenResty_x64_1.9.9/test/lua/login.lua: in function <D:/OpenResty_x64_1.9.9/test/lua/login.lua:1>, client: 127.0.0.1, server: localhost, request: "GET /api/login HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:05:36 [notice] 5092#6952: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:05:36 [emerg] 5092#6952: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:05:36 [notice] 5092#6952: signal process started
+2016/02/01 17:05:38 [notice] 6280#6336: using inherited sockets from "400;"
+2016/02/01 17:17:45 [notice] 5308#5832: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:17:45 [emerg] 5308#5832: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:17:45 [notice] 5308#5832: signal process started
+2016/02/01 17:17:46 [notice] 6212#3428: using inherited sockets from "392;"
+2016/02/01 17:19:09 [notice] 4516#5600: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:19:09 [emerg] 4516#5600: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:19:09 [notice] 4516#5600: signal process started
+2016/02/01 17:19:10 [notice] 908#1044: using inherited sockets from "452;"
+2016/02/01 17:19:20 [error] 908#1872: *219 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//ogin.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua//ogin.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /ogin?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:15 [notice] 4924#6688: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:21:15 [emerg] 4924#6688: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:21:15 [notice] 4924#6688: signal process started
+2016/02/01 17:21:16 [notice] 4448#6868: using inherited sockets from "400;"
+2016/02/01 17:21:18 [error] 4448#6740: *235 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:20 [error] 4448#6740: *236 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:23 [error] 4448#6740: *237 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:41 [notice] 5428#2848: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:21:41 [emerg] 5428#2848: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:21:41 [notice] 5428#2848: signal process started
+2016/02/01 17:21:42 [notice] 6960#4940: using inherited sockets from "480;"
+2016/02/01 17:21:44 [error] 6960#964: *239 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:45 [error] 6960#964: *240 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:21:46 [error] 6960#964: *241 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//login.lua": D:/OpenResty_x64_1.9.9/test/lua//login.lua:19: '=' expected near 'red', client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:22:08 [notice] 1780#6584: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:22:08 [emerg] 1780#6584: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:22:08 [notice] 1780#6584: signal process started
+2016/02/01 17:22:10 [notice] 5316#992: using inherited sockets from "476;"
+2016/02/01 17:23:48 [notice] 6580#4220: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:23:48 [emerg] 6580#4220: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:23:48 [notice] 6580#4220: signal process started
+2016/02/01 17:23:49 [notice] 6344#7024: using inherited sockets from "464;"
+2016/02/01 17:24:35 [notice] 6880#7036: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:24:35 [emerg] 6880#7036: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:24:35 [notice] 6880#7036: signal process started
+2016/02/01 17:24:37 [notice] 1512#2112: using inherited sockets from "480;"
+2016/02/01 17:24:55 [notice] 6572#6020: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:24:55 [emerg] 6572#6020: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:24:55 [notice] 6572#6020: signal process started
+2016/02/01 17:24:56 [notice] 3428#3272: using inherited sockets from "400;"
+2016/02/01 17:25:53 [notice] 4376#7028: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:25:53 [emerg] 4376#7028: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:25:53 [notice] 4376#7028: signal process started
+2016/02/01 17:25:54 [notice] 2092#6232: using inherited sockets from "408;"
+2016/02/01 17:30:58 [notice] 3932#3360: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:30:58 [emerg] 3932#3360: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:30:58 [notice] 3932#3360: signal process started
+2016/02/01 17:30:59 [notice] 6688#5176: using inherited sockets from "476;"
+2016/02/01 17:31:04 [error] 6688#7028: *260 lua tcp socket connect timed out, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "localhost:8801"
+2016/02/01 17:31:21 [error] 6688#7028: *264 lua tcp socket connect timed out, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "127.0.0.1:8801"
+2016/02/01 17:31:21 [error] 6688#7028: *264 failed to load external Lua file "D:/OpenResty_x64_1.9.9/test/lua//favicon.lua": cannot open D:/OpenResty_x64_1.9.9/test/lua//favicon.lua: No such file or directory, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/login?name=11&pwd=22"
+2016/02/01 17:31:24 [error] 6688#7028: *264 lua tcp socket connect timed out, client: 127.0.0.1, server: localhost, request: "GET /login?name=11&pwd=22 HTTP/1.1", host: "127.0.0.1:8801"
+2016/02/01 17:31:33 [notice] 5416#3516: using inherited sockets from "D:\OpenResty_x64_1.9.9\nginx\nginx.exe"
+2016/02/01 17:31:33 [emerg] 5416#3516: invalid socket number "D:\OpenResty_x64_1.9.9\nginx\nginx.exe" in NGINX environment variable, ignoring the rest of the variable
+2016/02/01 17:31:33 [notice] 5416#3516: signal process started
+2016/02/01 17:31:36 [notice] 3360#6344: using inherited sockets from "464;"
