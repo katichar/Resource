@@ -1,0 +1,22 @@
+Purchased Today:今日购买次数
+Energy restored in:下点体力恢复
+All energy restored in:全部体力恢复
+
+Claim:领取
+GM:系统管理员
+Avatar:修改头象
+
+Elite Arena Reward:巅峰竞技场邮件
+
+
+Tap to play
+
+Power:战斗力
+Level:等级
+EXP:经验
+Quick Equip:一键装备
+Promote:进阶
+announcement:公告
+S:Strength
+I:Intelligence
+A:Agility
