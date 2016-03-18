@@ -1,9 +1,10 @@
-runy_ma
-Arsmaqwe123!@#
-
-li shi ren wu(您最喜欢的历史人物的姓名是？)
-laoluo
-yin xian zui da ren wu ming(对您影响最大的人的姓名是？)
-laoluo
-chong wu (您的第一个宠物叫什么？)
-laoluo
+local list = {
+	ver = 0.02,
+	limit = 0.01,
+	stage = {
+		{name="update.zip1", path="", code="13bd035daeb460518cc055670883e9ff", act="load"},
+	},
+	remove={
+	},
+}
+return list
